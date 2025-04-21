@@ -22,6 +22,3 @@ format:
 Link al curso:
 
 > [Markdown Basics](https://www.markdownguide.org/basic-syntax/)
-
-# Latex Tutorial
-
