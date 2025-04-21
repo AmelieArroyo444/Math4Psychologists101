@@ -1,5 +1,5 @@
-----
-Author: "Chris"
+---
+author: "Chris"
 date: today
 title: "Prueba"
 format: 
