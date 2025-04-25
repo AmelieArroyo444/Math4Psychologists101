@@ -1,52 +1,19 @@
-title: "Math 4 Psychologists 101"
+---
+title: "Inicio"
 format: html
-page-layout: full
 ---
 
-# 🧠 Bienvenid@s a Math4Psychologists101
+# 🧠 Creando Psicólogos Científicos
 
-En la formación psicológica, dominar herramientas cuantitativas es clave para analizar y modelar fenómenos complejos.  
-Este sitio está pensado para quienes **sienten que las matemáticas son un obstáculo** y quieren transformarlas en su mejor amiga.
+## Aprendiendo matemáticas desde cero
 
-
-## 👩🏽‍🏫 Ponentes  
-Pamela Durán, Eunice Méndez y Amélie Arroyo
+### 👩‍🏫 Ponentes: Pamela Durán, Eunice Méndez y Amélie Arroyo
 
 ---
 
-Este curso intersemestral busca cerrar esa brecha, proporcionando una base sólida en:
+En la formación de un psicólogo, el dominio de herramientas cuantitativas es esencial para comprender, analizar y modelar fenómenos psicológicos de manera rigurosa.
 
-- Matemáticas fundamentales  
-- Lógica matemática  
-- Estadística aplicada a la psicología  
+Sin embargo, muchos estudiantes enfrentan dificultades al aplicar conceptos matemáticos en su disciplina.  
+Este curso intersemestral busca cerrar esa brecha, proporcionando una base sólida en matemáticas fundamentales, lógica y estadística aplicada a la psicología.
 
-Con ello, los estudiantes desarrollarán habilidades para interpretar datos, formular modelos y mejorar la precisión en el análisis de investigaciones.
-
----
-
-## 🧾 Temario
-
-### 1. Matemáticas Fundamentales
-- Álgebra Básica  
-  - Variables, constantes y expresiones algebraicas  
-  - Operaciones básicas  
-  - Propiedades algebraicas  
-  - Ecuaciones lineales e inecuaciones  
-  - Sistemas de ecuaciones  
-  - Funciones lineales y cuadráticas  
-
-### 2. Introducción a la Lógica Matemática  
-- Proposiciones y conectores lógicos  
-- Cuantificadores (∀, ∃)  
-- Conjuntos y operaciones  
-
-### 3. Estadística y Probabilidad Básica  
-- Conceptos de probabilidad  
-- Combinatoria  
-- Medidas estadísticas (media, moda, varianza…)  
-- Distribuciones de probabilidad  
-
----
-
-## 💬 Frase para motivarte  
-> _"No necesitas ser buena en matemáticas para empezar, pero sí necesitas empezar para ser buena."_
+> Fortalecer la capacidad para abordar problemas desde una perspectiva cuantitativa contribuye a una psicología más científica y basada en evidencia.
