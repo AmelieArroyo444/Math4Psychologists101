@@ -1,8 +1,34 @@
----
-title: "Math4Psychologists101"
+title: "Math 4 Psychologists 101"
 format: html
+page-layout: full
 ---
 
-This is a Quarto website.
+# 🧠 Bienvenid@s a Math4Psychologists101
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+En la formación psicológica, dominar herramientas cuantitativas es clave para analizar y modelar fenómenos complejos.  
+Este sitio está pensado para quienes **sienten que las matemáticas son un obstáculo** y quieren transformarlas en una aliada.
+
+## 🎯 ¿Qué aprenderás?
+
+- Fundamentos de **álgebra**
+- Principios de **probabilidad**
+- Lógica aplicada al análisis de datos
+- Conexiones entre **modelos matemáticos** y procesos psicológicos
+
+## 🌿 Objetivo
+
+> Fortalecer la base matemática de estudiantes de psicología para fomentar una práctica científica y basada en evidencia.
+
+## 🧰 Recursos
+
+- 📚 Guías paso a paso
+- 📊 Visualizaciones interactivas
+- 🧪 Ejercicios aplicados a la psicología
+- 🧵 Explicaciones con ejemplos creativos (¡y personajes de Smash Bros si gustas!)
+
+## 📍 Acerca del curso
+
+Este curso es parte de un esfuerzo por hacer más accesible el aprendizaje de las matemáticas en las ciencias del comportamiento.
+
+> _"No necesitas ser buena en matemáticas para empezar, pero sí necesitas empezar para ser buena."_  
+> — Tú, después de este curso ✨
