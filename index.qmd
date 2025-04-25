@@ -1,5 +1,6 @@
 ---
 title: "Math4Psychologists101"
+format: html
 ---
 
 This is a Quarto website.
