@@ -5,15 +5,14 @@ website:
   title: "Math4Psychologists101"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Temario"
+        href: syllabus.qmd
+      - text: "Ponentes"
+        href: about.qmd
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
-    toc: true
-
-
 
